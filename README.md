@@ -26,3 +26,11 @@ Browse the repository files and open documents, spreadsheets, presentations, or 
 ## License
 
 No license file is included in this repository. This README grants no additional reuse or redistribution permissions; contact the repository owner about permitted use.
+
+<!-- project-artwork:start -->
+## Project artwork
+
+![Conceptual artwork for LeaseKings](assets/brand/cover.png)
+
+Conceptual project artwork. [Asset files, design notes, and generation prompts](assets/brand/README.md).
+<!-- project-artwork:end -->
