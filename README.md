@@ -15,6 +15,21 @@ The planned mobile and web experience includes:
 
 This repository is the product-discovery and venture-planning archive. It includes customer interviews, survey responses, requirements, roadmap materials, brokerage research, business-model work, regional analysis, financial data, branding, and interview-video planning.
 
+### Key files
+
+```text
+Customer Discovery/              Interview notes, question scripts (students and landlords), survey responses, summary
+Videos/                          Interview-video ideas and question lists
+Requirement Specifications.docx  Planned product requirements
+Roadmap.docx                     Product roadmap
+Business Model Canvas.docx       Business model
+C-Corp Choices.docx              Entity-formation notes
+Brokerages.docx / .xlsx          Brokerage research (output.csv is a tabular export of brokerage contacts)
+Map of Different Regions.docx    Regional analysis (see also Areas near USC.png)
+Feedback to Website.docx         Feedback on a website concept
+Lease Kings Logo.webp            Logo
+```
+
 ## Status
 
 LeaseKings is in the research and product-definition stage; this repository does not yet contain a production application.
