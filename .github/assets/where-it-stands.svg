@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" font-family="-apple-system, Segoe UI, Inter, Helvetica, Arial, sans-serif">
+<rect width="1200" height="270" rx="20" fill="#F5F4F0"/>
+<text x="40" y="52" font-size="15" font-weight="600" fill="#6b6b6b" letter-spacing="1.5">WHERE THE PROJECT STANDS</text>
+<rect x="40" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
+<circle cx="70" cy="112" r="15" fill="#2F6B3F"/><text x="70" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="60" y="162" font-size="19" font-weight="700" fill="#111111">Listen</text>
+<text x="60" y="194" font-size="14.5" fill="#55554F">Student and landlord</text>
+<text x="60" y="216" font-size="14.5" fill="#55554F">discovery interviews</text>
+<path d="M250 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#2F6B3F" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="269" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
+<circle cx="299" cy="112" r="15" fill="#2F6B3F"/><text x="299" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="289" y="162" font-size="19" font-weight="700" fill="#111111">Survey</text>
+<text x="289" y="194" font-size="14.5" fill="#55554F">Student housing survey</text>
+<text x="289" y="216" font-size="14.5" fill="#55554F">responses, summarised</text>
+<path d="M479 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#2F6B3F" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="498" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
+<circle cx="528" cy="112" r="15" fill="#2F6B3F"/><text x="528" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="518" y="162" font-size="19" font-weight="700" fill="#111111">Map the area</text>
+<text x="518" y="194" font-size="14.5" fill="#55554F">Neighbourhoods near</text>
+<text x="518" y="216" font-size="14.5" fill="#55554F">campus, area videos</text>
+<path d="M707 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#2F6B3F" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="726" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
+<circle cx="756" cy="112" r="15" fill="#2F6B3F"/><text x="756" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="746" y="162" font-size="19" font-weight="700" fill="#111111">Specify</text>
+<text x="746" y="194" font-size="14.5" fill="#55554F">Requirements for a</text>
+<text x="746" y="216" font-size="14.5" fill="#55554F">mobile and web app</text>
+<path d="M936 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#2F6B3F" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="955" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
+<circle cx="985" cy="112" r="15" fill="#2F6B3F"/><text x="985" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="975" y="162" font-size="19" font-weight="700" fill="#111111">Build</text>
+<text x="975" y="194" font-size="14.5" fill="#55554F">Not started in this</text>
+<text x="975" y="216" font-size="14.5" fill="#55554F">repository yet</text>
+</svg>
