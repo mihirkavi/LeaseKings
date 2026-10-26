@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.png">
-    <img alt="LeaseKings: find your place near campus. A student-housing marketplace concept with honest listings, safety, reviews and roommates in one search." src=".github/assets/banner-light.png" width="100%">
+    <img alt="LeaseKings: find your place near campus. A student-housing marketplace concept, shown as a street map with listing pins and walking-distance rings around a campus." src=".github/assets/banner-light.png" width="100%">
   </picture>
 </p>
 
@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <img alt="Stage: product discovery" src="https://img.shields.io/badge/stage-product%20discovery-6b6b6b?style=flat-square">
-  <img alt="App: not built yet" src="https://img.shields.io/badge/app-not%20built%20yet-6b6b6b?style=flat-square">
-  <img alt="Focus: students near campus" src="https://img.shields.io/badge/students%20%C2%B7%20landlords-111111?style=flat-square">
-  <img alt="License: none" src="https://img.shields.io/badge/license-none-111111?style=flat-square">
+  <img alt="Stage: product discovery" src="https://img.shields.io/badge/stage-product%20discovery-8c1d2c?style=flat-square">
+  <img alt="App: not built yet" src="https://img.shields.io/badge/app-not%20built%20yet-9a6f25?style=flat-square">
+  <img alt="Focus: students near campus" src="https://img.shields.io/badge/students%20%C2%B7%20landlords-2a1215?style=flat-square">
+  <img alt="License: none" src="https://img.shields.io/badge/license-none-2a1215?style=flat-square">
 </p>
 
 <p align="center">
